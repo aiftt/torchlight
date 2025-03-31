@@ -1,0 +1,390 @@
+[
+  {
+    "value": "Damage_Form",
+    "label": "伤害形式"
+  },
+  {
+    "value": "Damage_Type",
+    "label": "伤害类型"
+  },
+  {
+    "value": "Damage_Calculation",
+    "label": "伤害计算"
+  },
+  {
+    "value": "Critical_Strike",
+    "label": "暴击"
+  },
+  {
+    "value": "Double_Damage",
+    "label": "双倍伤害"
+  },
+  {
+    "value": "Amplified_DoT_Damage",
+    "label": "持续伤害加剧"
+  },
+  {
+    "value": "DoT_Damage_Reaping",
+    "label": "持续伤害收割"
+  },
+  {
+    "value": "Damage_Type_Conversion",
+    "label": "伤害类型转化"
+  },
+  {
+    "value": "Resistance_Penetration",
+    "label": "抗性穿透"
+  },
+  {
+    "value": "Armor_DMG_Mitigation_Penetration",
+    "label": "护甲减伤穿透"
+  },
+  {
+    "value": "Others",
+    "label": "其他"
+  },
+  {
+    "value": "Life",
+    "label": "生命"
+  },
+  {
+    "value": "Shield",
+    "label": "护盾"
+  },
+  {
+    "value": "Regain",
+    "label": "返还"
+  },
+  {
+    "value": "Resistance",
+    "label": "抗性"
+  },
+  {
+    "value": "Armor",
+    "label": "护甲"
+  },
+  {
+    "value": "Evade",
+    "label": "闪避"
+  },
+  {
+    "value": "Block",
+    "label": "格挡"
+  },
+  {
+    "value": "Damage_Mitigation",
+    "label": "伤害减免"
+  },
+  {
+    "value": "Chance_to_Avoid_Damage",
+    "label": "几率避免伤害"
+  },
+  {
+    "value": "Injury_Buffer",
+    "label": "受伤缓冲"
+  },
+  {
+    "value": "Strength",
+    "label": "力量"
+  },
+  {
+    "value": "Dexterity",
+    "label": "敏捷"
+  },
+  {
+    "value": "Intelligence",
+    "label": "智慧"
+  },
+  {
+    "value": "Mana",
+    "label": "魔力"
+  },
+  {
+    "value": "Movement_Speed",
+    "label": "移动速度"
+  },
+  {
+    "value": "Stacks_and_Multiplication_Rules",
+    "label": "叠加和叠乘规则"
+  },
+  {
+    "value": "Skill_Type",
+    "label": "技能类型"
+  },
+  {
+    "value": "Skill_Speed",
+    "label": "技能速度"
+  },
+  {
+    "value": "Cooldown",
+    "label": "冷却时间"
+  },
+  {
+    "value": "Charges",
+    "label": "充能点数"
+  },
+  {
+    "value": "Skill_cost",
+    "label": "技能消耗"
+  },
+  {
+    "value": "Seal",
+    "label": "封印"
+  },
+  {
+    "value": "Skill_Slots",
+    "label": "技能栏位"
+  },
+  {
+    "value": "Skill_Level",
+    "label": "技能等级"
+  },
+  {
+    "value": "Attack",
+    "label": "攻击"
+  },
+  {
+    "value": "Spell",
+    "label": "法术"
+  },
+  {
+    "value": "Channeled",
+    "label": "引导"
+  },
+  {
+    "value": "Area",
+    "label": "范围"
+  },
+  {
+    "value": "Melee",
+    "label": "近战"
+  },
+  {
+    "value": "Slash-Strike",
+    "label": "挥斩"
+  },
+  {
+    "value": "Demolisher",
+    "label": "破击"
+  },
+  {
+    "value": "Shadow_Strike",
+    "label": "影袭"
+  },
+  {
+    "value": "Projectile",
+    "label": "投射物"
+  },
+  {
+    "value": "Horizontal",
+    "label": "直射"
+  },
+  {
+    "value": "Parabolic",
+    "label": "抛射"
+  },
+  {
+    "value": "Vertical",
+    "label": "坠落"
+  },
+  {
+    "value": "Terra",
+    "label": "地面"
+  },
+  {
+    "value": "Barrage",
+    "label": "轰炸"
+  },
+  {
+    "value": "Chain",
+    "label": "连锁"
+  },
+  {
+    "value": "Beam",
+    "label": "射线"
+  },
+  {
+    "value": "Sentry",
+    "label": "哨卫"
+  },
+  {
+    "value": "Summon",
+    "label": "召唤"
+  },
+  {
+    "value": "Synthetic_Troop",
+    "label": "智械"
+  },
+  {
+    "value": "Spirit_Magus",
+    "label": "魔灵"
+  },
+  {
+    "value": "Warcry",
+    "label": "战吼"
+  },
+  {
+    "value": "Curse",
+    "label": "诅咒"
+  },
+  {
+    "value": "Empower",
+    "label": "激发"
+  },
+  {
+    "value": "Mobility",
+    "label": "位移"
+  },
+  {
+    "value": "Restoration",
+    "label": "回复"
+  },
+  {
+    "value": "Defensive",
+    "label": "防护"
+  },
+  {
+    "value": "Aura",
+    "label": "光环"
+  },
+  {
+    "value": "Activation_Medium",
+    "label": "触媒"
+  },
+  {
+    "value": "Imbue",
+    "label": "加持"
+  },
+  {
+    "value": "Exclusive_Support_Skill_%28Magnificent%29",
+    "label": "专属辅助技能（华贵）"
+  },
+  {
+    "value": "Exclusive_Support_Skill_%28Noble%29",
+    "label": "专属辅助技能（崇高）"
+  },
+  {
+    "value": "Multistrike",
+    "label": "连续攻击"
+  },
+  {
+    "value": "Spell_Burst",
+    "label": "法术迸发"
+  },
+  {
+    "value": "Using%2C_Triggering%2C_Casting%2C_and_Activating_Skills",
+    "label": "使用、触发、释放和激活技能"
+  },
+  {
+    "value": "Ailment",
+    "label": "异常状态"
+  },
+  {
+    "value": "Trauma",
+    "label": "创伤"
+  },
+  {
+    "value": "Ignite",
+    "label": "点燃"
+  },
+  {
+    "value": "Frostbite_and_Freeze",
+    "label": "冰结和冰封"
+  },
+  {
+    "value": "Shock",
+    "label": "触电"
+  },
+  {
+    "value": "Wilt",
+    "label": "凋零"
+  },
+  {
+    "value": "Numbed",
+    "label": "麻痹"
+  },
+  {
+    "value": "Tenacity_Blessing",
+    "label": "坚韧祝福"
+  },
+  {
+    "value": "Agility_Blessing",
+    "label": "灵动祝福"
+  },
+  {
+    "value": "Focus_Blessing",
+    "label": "聚能祝福"
+  },
+  {
+    "value": "Fighting_Will",
+    "label": "战意"
+  },
+  {
+    "value": "Blur",
+    "label": "迷踪"
+  },
+  {
+    "value": "Barrier",
+    "label": "屏障"
+  },
+  {
+    "value": "Slow",
+    "label": "减速"
+  },
+  {
+    "value": "Taunt",
+    "label": "嘲讽"
+  },
+  {
+    "value": "Knockback",
+    "label": "击退"
+  },
+  {
+    "value": "Paralysis",
+    "label": "瘫痪"
+  },
+  {
+    "value": "Blinding",
+    "label": "致盲"
+  },
+  {
+    "value": "Focus",
+    "label": "专注"
+  },
+  {
+    "value": "Hardened",
+    "label": "硬化"
+  },
+  {
+    "value": "Movement",
+    "label": "移动"
+  },
+  {
+    "value": "Stand_Still",
+    "label": "静止"
+  },
+  {
+    "value": "Skill_Slot_Info",
+    "label": "技能栏说明"
+  },
+  {
+    "value": "Skill_Info",
+    "label": "技能说明"
+  },
+  {
+    "value": "Basic_Rules",
+    "label": "基础规则"
+  },
+  {
+    "value": "Talent_Node_Related",
+    "label": "天赋点相关"
+  },
+  {
+    "value": "Oblivion_Point_Related",
+    "label": "遗忘点相关"
+  },
+  {
+    "value": "Brand_Divinity_Slate",
+    "label": "烙印神格石板"
+  }
+] 
